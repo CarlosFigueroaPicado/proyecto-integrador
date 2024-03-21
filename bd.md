@@ -12,7 +12,6 @@
 - id_padres *(PK)*
 - nombres
 - apelidos
-- cedula
 
 ### profesores
 - id_profesor *(PK)*
