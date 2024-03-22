@@ -1,7 +1,5 @@
 # Base de datos
 
----
-
 ## Entidades
 
 ### estudiantes
@@ -48,8 +46,6 @@
 - id_materia *(FK)*
 - id_estudiante *(FK)*
 - calificacion
-
----
 
 ## Módelo de negocios
 
