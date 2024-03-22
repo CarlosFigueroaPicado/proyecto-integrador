@@ -1,4 +1,4 @@
-# Sistema de gestón académica
+# Sistema de gestión académica
 
 ## Problemática
 La gestión manual de la matrícula, la asistencia y las calificaciones en un instituto representa un desafío considerable en términos de tiempo, recursos y precisión. Actualmente, el proceso implica una gran cantidad de trabajo administrativo, desde la recopilación de formularios de matrícula hasta el seguimiento manual de la asistencia diaria de los estudiantes y la introducción manual de las calificaciones en los registros académicos. Este enfoque manual no solo es propenso a errores y retrasos, sino que también consume una cantidad significativa de tiempo que podría dedicarse a actividades educativas más productivas. Además, la falta de automatización dificulta el acceso rápido y la gestión eficiente de la información del estudiante, lo que puede afectar negativamente la toma de decisiones educativas y la comunicación con los padres.
