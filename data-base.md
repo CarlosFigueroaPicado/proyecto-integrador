@@ -22,6 +22,7 @@
 ### materias
 - id_materia *(PK)*
 - nombre
+- calificacion
 
 ### secciones
 - id_seccion *(PK)*
